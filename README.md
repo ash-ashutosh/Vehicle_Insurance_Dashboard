@@ -61,6 +61,8 @@ In this project, I created an interactive Power BI dashboard to analyze and visu
 - Power BI Service for report sharing and collaboration.
 
 # Screenshots  
+- <a href="https://github.com/ash-ashutosh/Vehicle_Insurance_Dashboard/blob/main/Vehicle%20Insurance.pbix">Download Power-BI File</a>
+
 ![1 landing page](https://github.com/user-attachments/assets/6c926b7f-6a7f-4c49-a1e4-37a4cefbdee0)
 ![2 insurance by coverage](https://github.com/user-attachments/assets/368d9f1d-5534-4159-9bc2-6467a2a15600)
 ![insurance by customer](https://github.com/user-attachments/assets/b12777d9-d145-4149-a0cf-7b0935f59f38)
