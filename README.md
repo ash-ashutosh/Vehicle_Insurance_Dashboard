@@ -2,7 +2,7 @@
 In this project, I created an interactive Power BI dashboard to analyze and visualize data related to auto insurance. The dashboard provides actionable insights into key metrics and trends, empowering stakeholders to make informed decisions.
 
 ### Dataset Used
-- <a href="https://github.com/ash-ashutosh/Vehicle_Insurance_Dashboard/blob/main/VehicleInsuranceData.csv">Vehicle Insurance Data Set</a>
+- <a href="https://github.com/ash-ashutosh/Vehicle_Insurance_Dashboard/blob/main/VehicleInsuranceData.csv">View Vehicle Insurance Data Set</a>
 
 # Features 
 ### 1. Data Import and Transformation
@@ -59,4 +59,13 @@ In this project, I created an interactive Power BI dashboard to analyze and visu
 - Power Query for data transformation.
 - DAX (Data Analysis Expressions) for advanced calculations.
 - Power BI Service for report sharing and collaboration.
+
+# Screenshots  
+![1 landing page](https://github.com/user-attachments/assets/6c926b7f-6a7f-4c49-a1e4-37a4cefbdee0)
+![2 insurance by coverage](https://github.com/user-attachments/assets/368d9f1d-5534-4159-9bc2-6467a2a15600)
+![insurance by customer](https://github.com/user-attachments/assets/b12777d9-d145-4149-a0cf-7b0935f59f38)
+![Insurance by policy](https://github.com/user-attachments/assets/0eb3f86e-4e2d-4fff-b81c-c1f6a7f8a002)
+![KPI](https://github.com/user-attachments/assets/e155e2b2-57af-4973-952f-a5076a4168fc)
+
+
 
